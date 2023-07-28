@@ -1,11 +1,9 @@
-# 💻 Cole Miller
+# 🎮 Cole Miller
 **`Game Developer / Competitive Programmer`**
 
-- 🔭 I’m currently working on [War Engine Battlegrounds](https://youtube.com/@colecancode)
-
-- 💬 Ask me about **literally anything**
-
-- 📫 How to reach me **coledouglasmiller@gmail.com**
+Hey, my name's Cole. I'm a 17 y/o programmer who enjoys making games and solving problems.
+I'm currently working on a game called **War Engine Battlegrounds**, and documenting my journey on [YouTube] (https://www.youtube.com/c/colecancode)
+When I'm not working on my game, I'm training for USACO and solving CodeForces problems
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
