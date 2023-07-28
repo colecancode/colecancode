@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Cole</h1>
-<h3 align="center">i like making games and solving problems</h3>
+# 💻 Cole Miller
+**`Game Developer / Competitive Programmer`**
 
 - 🔭 I’m currently working on [War Engine Battlegrounds](https://youtube.com/@colecancode)
 
