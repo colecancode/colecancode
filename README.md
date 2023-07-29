@@ -2,7 +2,7 @@
 **`Game Developer / Competitive Programmer`**
 
 Hey, my name's Cole. I enjoy making games and solving coding problems.  
-I'm currently working on my first game, called **War Engine Battlegrounds**, and documenting my journey on [YouTube](https://youtube.com/@colecancode)  
+I'm currently working on my first game called **War Engine Battlegrounds**, and documenting my journey on [YouTube](https://youtube.com/@colecancode)  
 When I'm not working on my game, I'm solving CodeForces problems and training for USACO
 
 <h3 align="left">Connect with me:</h3>
