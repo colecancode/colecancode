@@ -9,7 +9,7 @@ When I'm not working on my game, I'm solving CodeForces problems and training fo
 <p align="left">
 <a href="https://www.youtube.com/@colecancode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="colecancode" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/cole" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="cole" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/the6thplatonicsolid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="the6thplatonicsolid" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/colecancode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="colecancode" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/colecantcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="colecantcode" height="30" width="40" /></a>
 <a href="https://discord.gg/zT74yNq93s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="FYUurDmt" height="30" width="40" /></a>
 </p>
