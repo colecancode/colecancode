@@ -2,7 +2,7 @@
 **`Game Developer / Competitive Programmer`**
 
 Hey, my name's Cole. I enjoy making games and solving coding problems.  
-Check me out at [YouTube](https://youtube.com/@colecancode)  
+Check me out on [YouTube](https://youtube.com/@colecancode)  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
