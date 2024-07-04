@@ -1,4 +1,4 @@
-# 🎮 Cole Miller
+# 🎮 Cole
 **`Game Developer / Competitive Programmer`**
 
 Hey, my name's Cole. I enjoy making games and solving coding problems.  
